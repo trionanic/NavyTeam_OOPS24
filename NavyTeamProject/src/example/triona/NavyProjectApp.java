@@ -16,6 +16,7 @@ public class NavyProjectApp {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("This code is for FeatureB");
+        System.out.println("This code is for FeatureA");
     }
     
 }
