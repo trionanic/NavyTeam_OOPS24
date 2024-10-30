@@ -1,4 +1,4 @@
-/*
+git add/*
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
  */
@@ -17,6 +17,7 @@ public class NavyProjectApp {
         // TODO code application logic here
         System.out.println("This code is for FeatureB");
         System.out.println("This code is for FeatureA");
+        System.out.println(" Writing this code on FA branch");
     }
     
 }
